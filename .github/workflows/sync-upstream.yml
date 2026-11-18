@@ -1,0 +1,29 @@
+name: Sync upstream
+
+on:
+  schedule:
+    - cron: '17 */4 * * *'   # 07:17 UTC = 2:17 AM EST / 3:17 AM EDT
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency: sync-upstream
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          token: ${{ secrets.SYNC_TOKEN }}
+
+      - name: Merge fmhy/edit main
+        run: |
+          git config user.name "fmhy-sync"
+          git config user.email "fmhy-sync@users.noreply.github.com"
+          git remote add upstream https://github.com/fmhy/edit.git
+          git fetch upstream main
+          git merge --no-edit upstream/main
+          git push origin HEAD:main
