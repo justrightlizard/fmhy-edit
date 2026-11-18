@@ -1,0 +1,24 @@
+# Self-host add-on (not part of upstream fmhy/edit).
+#
+# Runs the image built by .github/workflows/selfhost-image.yml. Point the
+# Komodo stack at this file (run directory: selfhost) or paste it into the
+# stack's compose box.
+#
+# Set in the stack's environment (never commit it):
+#   FMHY_HOSTNAME   full URL the site is served at, e.g. https://wiki.example.com
+#                   (written into page meta tags, the sitemap and the RSS feed
+#                   when the container is created; change it and redeploy)
+#   IMAGE_TAG       optional: a sha-<commit> tag to roll back to (default latest)
+services:
+  docs:
+    networks: [fmhy]
+    image: ghcr.io/justrightlizard/fmhy-edit:${IMAGE_TAG:-latest}
+    container_name: fmhy
+    restart: unless-stopped
+    environment:
+      FMHY_HOSTNAME: ${FMHY_HOSTNAME:-https://fmhy.net}
+    ports:
+      - '127.0.0.1:4173:80'
+
+networks:
+  fmhy:
