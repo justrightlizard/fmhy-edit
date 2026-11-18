@@ -18,6 +18,11 @@ name: Self-host image
 on:
   push:
     branches: [main]
+  pull_request: # build and test only; pushing happens on main
+    paths:
+      - Dockerfile
+      - selfhost/**
+      - .github/workflows/selfhost-image.yml
   workflow_dispatch:
 
 permissions:
@@ -25,7 +30,7 @@ permissions:
   packages: write
 
 concurrency:
-  group: selfhost-image
+  group: selfhost-image-${{ github.ref }}
   cancel-in-progress: true
 
 env:
