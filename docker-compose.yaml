@@ -4,11 +4,13 @@ services:
     build:
       context: .
       dockerfile: Dockerfile
+      args:
+        FMHY_HOSTNAME: ${FMHY_HOSTNAME}
     image: fmhy-docs
-    container_name: docs
+    container_name: fmhy
     restart: unless-stopped
     ports:
-      - '4173:80'
+      - '127.0.0.1:4173:80'
 
 networks:
   fmhy:
