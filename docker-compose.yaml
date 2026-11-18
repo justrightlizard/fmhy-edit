@@ -7,6 +7,7 @@ services:
       args:
         FMHY_HOSTNAME: ${FMHY_HOSTNAME}
     image: fmhy-docs
+    pull_policy: build
     container_name: fmhy
     restart: unless-stopped
     ports:
