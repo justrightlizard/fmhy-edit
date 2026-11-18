@@ -9,6 +9,8 @@ COPY package.json pnpm-lock.yaml ./
 FROM base AS build
 RUN --mount=type=cache,id=pnpm,target=/pnpm/store pnpm install --frozen-lockfile --config.autoInstallPeers=false
 COPY . .
+ARG FMHY_HOSTNAME
+ENV FMHY_HOSTNAME=${FMHY_HOSTNAME}
 RUN pnpm run docs:build
 
 FROM nginx:alpine-slim
