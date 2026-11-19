@@ -1,8 +1,9 @@
 # Self-host add-on (not part of upstream fmhy/edit).
 #
-# Builds the site image and publishes it to GHCR for the NAS to pull.
-#   1. Upstream's Dockerfile is built unmodified, with a placeholder hostname,
-#      so the real domain never appears in this public repo or the image.
+# Builds the site image and publishes it to GHCR for lizard-deb01 to pull.
+#   1. The repo's Dockerfile (upstream's, plus the two FMHY_HOSTNAME ARG/ENV
+#      lines) is built with a placeholder hostname, so the real domain never
+#      appears in this public repo or the image.
 #   2. The placeholder is checked for in the built site. If it's missing,
 #      upstream changed how the hostname works and the run fails instead of
 #      publishing a broken image.
@@ -45,7 +46,7 @@ jobs:
 
       # Plain docker build (no buildx container) so step 3 can build FROM the
       # image step 1 left in the local Docker engine.
-      - name: Build the site with upstream's Dockerfile
+      - name: Build the site with the repo's Dockerfile
         run: |
           docker build --pull \
             --build-arg FMHY_HOSTNAME="$PLACEHOLDER" \
