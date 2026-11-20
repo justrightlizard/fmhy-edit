@@ -428,6 +428,7 @@
 * [Exo](https://github.com/exo-explore/exo/) - Run AI Clusters / [Telegram](https://t.me/+Kh-KqHTzFYg3MGNk) / [Discord](https://discord.gg/EUnjGpsmWw)
 * [⁠LXD UI](https://github.com/canonical/lxd-ui) - Linux Container + Virtual Machine Manager
 * [Proxmox](https://www.proxmox.com/) - Self-Hosted Server Tools / Virtual Environment / [Scripts](https://community-scripts.org/)
+* [pyLoad](https://github.com/pyload/pyload) - Download Manager / Headless Python WebUI
 * [yet another bench script](https://github.com/masonr/yet-another-bench-script) - Server Performance Script
 * [Docker-Jackett](https://github.com/linuxserver/docker-jackett) - Docker Jackett Container
 * [arch-delugevpn](https://github.com/binhex/arch-delugevpn) - Docker with Torrent client and VPN on Arch Linux base
@@ -441,7 +442,7 @@
 * [⁠SilverBullet](https://silverbullet.md/) - Self-Hosted Markdown Note-Taking
 * [Lightning](https://williamhorning.dev/lightning/) - Self-Hosted Cross-Platform Chatbot Framework
 * [⁠ConvertX](https://github.com/C4illin/ConvertX) or [Transmute](https://transmute.sh/) / [GitHub](https://github.com/transmute-app/transmute) - Self-Hosted File Converters
-* [SearXNG](https://docs.searxng.org/), [4get](https://git.lolcat.ca/lolcat/4get), [⁠Hister](https://hister.org/) / [Discord](https://discord.gg/6JzgjGKVFP) / [GitHub](https://github.com/asciimoo/hister) or [ZincSearch](https://zincsearch-docs.zinc.dev/) / [GitHub](https://github.com/zincsearch/zincsearch) - Self-Hosted Search Engines
+* [SearXNG](https://docs.searxng.org/), [4get](https://git.lolcat.ca/lolcat/4get), [⁠Hister](https://nogon.eu/) / [Discord](https://discord.gg/6JzgjGKVFP) / [GitHub](https://github.com/asciimoo/hister) or [ZincSearch](https://zincsearch-docs.zinc.dev/) / [GitHub](https://github.com/zincsearch/zincsearch) - Self-Hosted Search Engines
 * [Moe Memos](https://memos.moe/) (android) or [Kept](https://www.keepitkept.xyz/) / [GitHub](https://github.com/ericerkz/kept) - Self-Hosted Note-Taking
 * [BookStack](https://www.bookstackapp.com/) / [GitHub](https://github.com/BookStackApp/BookStack), [NoteDiscovery](https://www.notediscovery.com/) / [GitHub](https://github.com/gamosoft/NoteDiscovery/) or [Siyuan](https://b3log.org/siyuan/en) / [GitHub](https://github.com/siyuan-note/siyuan) - Self-Hosted Info Managers
 * [iRedMail](https://www.iredmail.org/), [Docker Mailserver](https://docker-mailserver.github.io/docker-mailserver/edge/), [Stalwart](https://stalw.art/) / [GitHub](https://github.com/stalwartlabs/stalwart), [UnInbox](https://github.com/un/inbox) or [Mail-in a Box](https://mailinabox.email/) - Self-Hosted Email Servers

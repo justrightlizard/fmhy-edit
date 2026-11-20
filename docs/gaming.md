@@ -18,7 +18,6 @@
 * ⭐ **[AnkerGames](https://ankergames.net/)** - Download / Torrent (Sign-Up, 7 Monthly) / Pre-Installed / [Fluxer](https://fluxer.gg/1Tt9Lw5B) / [Subreddit](https://www.reddit.com/r/Anker_Games_/) / [Discord](https://discord.gg/nnMnGzDbwg)
 * ⭐ **[SteamRIP](https://steamrip.com/)** - Download / Pre-Installed / PW: `steamrip.com` / [Subreddit](https://www.reddit.com/r/SteamRip/) / [Discord](https://discord.gg/NBVFJsmy9y)
 * ⭐ **[AstralGames](https://astralgames.net/)** - Download / Pre-Installed / Achievements / [Subreddit](https://www.reddit.com/r/AstralGames/) / [Discord](https://discord.gg/snnf8RH8Fn)
-* ⭐ **[GameBounty](https://gamebounty.world/)** - Download / Pre-installed / Achievements / [Discord](https://discord.gg/dmjUJ4xCEV)
 * ⭐ **[⁠Kryoto](https://kryo.to/)** - Download / Pre-Installed / [Launcher](https://kryo.to/desktop) / [Subreddit](https://www.reddit.com/r/kryoto/) / [Discord](https://discord.com/invite/Q2S8hRzrep)
 * ⭐ **[SteamUnderground](https://steamunderground.net/)** - Download / Pre-Installed / [Discord](https://discord.gg/hxdv7eJ5Yt)
 * ⭐ **[⁠GOG Revived](https://gog-rev.com/)** - Download / Torrent / GOG Games Only / [Discord](https://discord.gg/pH6avrdHHC)
@@ -29,6 +28,7 @@
 * [g4u](https://g4u.to/) - Download / PW: `404`
 * [scene cat](https://rentry.co/FMHYB64#scenec) or [warez-chan](https://rentry.co/FMHYB64#warez-chan) - Scene Release Downloads
 * [GLoad](https://gload.to/) - Download / Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators)
+* [SteamGG](https://steamgg.net/) - Download / Pre-Installed / [Subreddit](https://www.reddit.com/r/NotSteamGG/) / [Discord](https://discord.com/invite/Rw6AT3hZZE)
 * [appnetica](https://appnetica.com/) - Download / Torrent / Pre-Installed / GOG Games / Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators) / [Telegram](https://t.me/+MoOJzMf3MJgyMzZi)
 * [⁠Cracked-Games](https://cracked-games.org/) - Download / Use Adblock / [Discord](https://discord.com/invite/hG4TEBTBjw)
 * [ElEnemigos](https://elenemigos.com/) - Download / PW: `elenemigos.com` / Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators) / [Telegram](https://t.me/ElEnemigos) / [Discord](https://discord.com/invite/juegos)
@@ -37,7 +37,6 @@
 * [SteamOra](https://steamora.net/) - Download / Pre-Installed / [Discord](https://discord.gg/2bRYgFS8Rj)
 * [TriahGames](https://triahgames.com/) - Download / PW: `www.triahgames.com` / [Discord](https://discord.gg/vRxJNNcJNh)
 * [GamePCFull](https://gamepcfull.com/) - Download
-* [SteamGG](https://steamgg.net/) - Download / Pre-Installed / [Subreddit](https://www.reddit.com/r/NotSteamGG/) / [Discord](https://discord.com/invite/Rw6AT3hZZE)
 * [⁠The Dark Games](https://the-dark-games.com/) - Download / Pre-Installed / [Subreddit](https://www.reddit.com/r/WorldofPCGamess/)
 * [⁠GOG Archive](https://gog.squid.wtf/) or [FreeGOGPCGames](https://freegogpcgames.com/) / [Hash Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/freegogpcgames-note.md) - Torrent / GOG Games Archives
 * [⁠The Vulpes Archives](https://rentry.co/the-vulpes-archives) - Download
@@ -176,7 +175,7 @@
 * 🌐 **[TheGamingEmporium](https://thegamingemporium.com/categories/decompilations-recompilations/)** - Game Decompilations / Ports
 * 🌐 **[GameTechWiki Ports](https://emulation.gametechwiki.com/index.php/Game_engine_recreations_and_source_ports)** - Game Decompilations / Ports
 * 🌐 **[⁠recomp.fyi](https://recomp.fyi/)** - Recomp Status Tracker
-* [Quiver Launcher](https://quiverlauncher.com/) / [GitHub](https://github.com/tgeorgiadis/quiver-launcher) or [GithubLauncher](https://github.com/SirDiabo/GithubLauncher) - Launch / Manage Recompiled Games ⁠
+* [Quiver Launcher](https://quiverlauncher.com/) / [GitHub](https://github.com/tgeorgiadis/quiver-launcher), [Decomp Buddy](https://decompbuddy.com/) or [GithubLauncher](https://github.com/SirDiabo/GithubLauncher) - Launch / Manage Recompiled Games ⁠
 * [IOQuake3](https://github.com/ioquake/ioq3) - Quake 3 Source Port / [Discord](https://discord.gg/YY9UvMHGYb)
 * [YQuake2](https://www.yamagi.org/quake2/) - Quake 2 Source Port / [GitHub](https://github.com/yquake2/yquake2)
 * [Dusklight](https://twilitrealm.dev/) - Twilight Princess Port / [Discord](https://discord.com/invite/6NpMhefCK9) / [GitHub](https://github.com/TwilitRealm/dusklight)
@@ -244,7 +243,7 @@
 
 * ↪️ **[Multiplayer Revivals / Mods](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/game-tools#wiki_.25B7_multiplayer_mods)**
 * [Updated Classic](https://rentry.co/FMHYB64#updated-classic) - Classic Rockstar Games Fixes + QOL Improvements
-* [Falcon BMS](https://www.falcon-bms.com/) - Falcon 4.0 Modernization Project / [Wiki](https://wiki.falcon-bms.com/) / [Forum](https://forum.falcon-bms.com/) / [YouTube](https://www.youtube.com/@falcon-bms) / [Subreddit](https://www.reddit.com/r/falconbms/) / [Discord](https://discord.gg/KQNHQBz)
+* [Falcon BMS](https://www.falcon-bms.com/) - Falcon 4.0 Modernization Project / [Companion](https://github.com/Scorpion-41/Falcon-BMS-Companion) / [Manuals](https://wiki.falcon-bms.com/en/manuals) / [Wiki](https://wiki.falcon-bms.com/) / [Forum](https://forum.falcon-bms.com/) / [YouTube](https://www.youtube.com/@falcon-bms) / [Subreddit](https://www.reddit.com/r/falconbms/) / [Discord](https://discord.gg/KQNHQBz)
 * [FlightGear](https://www.flightgear.org/) - Open-Source Flight Simulator / [X](https://x.com/flightgearsim) / [GitLab](https://gitlab.com/flightgear/flightgear)
 * [Sonic Runners Revival](https://sonicrunners.com/) - ⁠Sonic Runners Revival / [Discord](https://discord.gg/T5ytR6T)
 * [Age of the Ring](https://www.moddb.com/mods/the-horse-lords-a-total-modification-for-bfme) - LOTR: The Battle for Middle-Earth II Revival Mod / [Discord](https://discord.com/invite/MB8Kj9N)
@@ -273,7 +272,6 @@
 * ⭐ **[RetroAchievements](https://retroachievements.org/)** - Achievements for Emulators / [Compatible Games](https://retroachievements.vercel.app/) / [DAT Files](https://rentry.co/FMHYB64#ra-dat)
 * ⭐ **[Dolphin Guides](https://dolphin-emu.org/docs/guides/)** or [Dolphin Performance Guide](https://github.com/shiiion/dolphin/wiki/Performance-Guide) - Dolphin Setup / Performance Guides
 * ⭐ **[Cemu Guide](https://cemu.cfw.guide/)** or [r/CemuPiracy Tutorial](https://www.reddit.com/r/CemuPiracy/wiki/tutorial/) - Wii U / BOTW Setup Guides
-* [NetplayFinder](https://www.netplayfinder.com/) - Find Active Emulator Netplay Sessions / [Discord](https://discord.com/invite/SkRE39MGr7)
 * [Switch Emulation](https://rentry.co/FMHYB64#switch-emulation) - Switch Emulator Setup Guides
 * [Wiki of Axekin](https://wiki.axekin.com/) - Emulation Guides / [Discord](https://discord.gg/CUpf57y5Vg)
 * [⁠Retro Game Corps](https://retrogamecorps.com/) - Console / Handheld Emulator Guides
@@ -387,6 +385,7 @@
 * [Homebrew Hub](https://hh.gbdev.io/) - Homebrew ROMs / NES / Game Boy
 * [64DD.org](https://64dd.org/) - ROMs / 64DD
 * [NSWGame](https://nswgf.com/) - ROMs / DS / 3DS / Switch / Wii / WiiU / Avoid PC Games
+* [Sakura Shop](https://sakurashop.st/) - ROMs / Switch
 * [Tensearch](https://tensear.ch/) - ROMs / Switch
 * [ROMSLAB](https://romslab.com/) - ROMs / Switch 2 / Switch / [Telegram](https://t.me/GameCentrala) / [Discord](https://discord.com/invite/MmTjxwYvG9)
 * [NXBrew](https://nxbrew.net/) - ROMs / Switch 2 / Switch
@@ -949,6 +948,7 @@
 * [Hypersomnia](https://play.hypersomnia.io/) - Top-Down Shooter / [GitHub](https://github.com/TeamHypersomnia/Hypersomnia)
 * [Copter.io](https://copter.io/) - Top-Down Copter Battle
 * [Gats.io](https://gats.io/) - Top-Down Battle Royale / [Discord](https://discord.gg/8Tspptdupm)
+* [Eagler Touhou](https://rentry.co/FMHYB64#eagler) - Touhou Games / Multiplayer
 * [Operius](https://mors-games.itch.io/operius) - Space Shooter
 * [Galaxies](https://playcanv.as/p/Ikq6Uk6A/) - Space Combat Game
 * [MK48](https://mk48.io/) - Ship Combat Game / [Discord](https://discord.com/invite/YMheuFQWTX) / [GitHub](https://github.com/SoftbearStudios/mk48)
